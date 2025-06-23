@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 19468,
+  "port": 8888,
+  "root_dir": "C:\\Users\\Himanshu\\Desktop\\yolov11n",
+  "secure": false,
+  "sock": "",
+  "token": "89a8ddb6ec6b89a3b8066c03b3e27fb813679da3033bc95d",
+  "url": "http://localhost:8888/",
+  "version": "2.16.0"
+}

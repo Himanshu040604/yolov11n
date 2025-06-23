@@ -1,0 +1,13 @@
+{
+  "shell_port": 57741,
+  "iopub_port": 57742,
+  "stdin_port": 57743,
+  "control_port": 57745,
+  "hb_port": 57744,
+  "ip": "127.0.0.1",
+  "key": "abdc9701-216327dad58a50c0d8a386f5",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "yolov11nenv",
+  "jupyter_session": "C:\\Users\\Himanshu\\Desktop\\yolov11n\\Untitled1.ipynb"
+}
